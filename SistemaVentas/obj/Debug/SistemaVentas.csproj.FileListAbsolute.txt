@@ -1,0 +1,13 @@
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.Properties.Resources.resources
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmAgregarUsuarios.resources
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmClientes.resources
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmDocumentos.resources
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmProductos.resources
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmLogin.resources
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.VISTA.FrmVentas.resources
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.Menu.resources
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.exe
+C:\Users\dnlsn\Desktop\SistemaVentasP2\obj\Debug\SistemaVentasP2.pdb
